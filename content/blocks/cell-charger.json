@@ -14,7 +14,7 @@
   "craftTime": 360,
   "updateEffect": "smeltsmoke",
   "consumes": {
-    "power": 1
+    "power": "1f"
     },
   "requirements": [
     {

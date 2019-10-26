@@ -14,7 +14,16 @@
   "craftTime": 360,
   "updateEffect": "smeltsmoke",
   "consumes": {
-    "power": 1.0
+    "power": 1.0,
+    "items": {
+      "items": [
+
+        {
+          "item": "empty_power_cell",
+          "amount": 1
+        }
+      ]
+    }
     },
   "requirements": [
     {

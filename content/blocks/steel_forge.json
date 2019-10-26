@@ -50,7 +50,7 @@
     }
   ],
   "category": "crafting",
-  "research": "steel_forge",
+  "research": "iron_forge",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
 }

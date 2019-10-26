@@ -21,6 +21,7 @@ literally everything else.
 # !!!
 # ORBITAL DRILL:
 # Do NOT let it get damaged, it WILL crash the game
+# i can't fix this, its in the game.
 # !!!
 
 

@@ -1,8 +1,0 @@
-{
-  "type": "material",
-  "name": "Lithium",
-  "description": "A rare resource, unrefined",
-  "hardness": 2,
-  "cost": 3.0,
-  "color": "ffffff"
-}

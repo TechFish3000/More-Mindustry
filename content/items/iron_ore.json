@@ -1,8 +1,8 @@
 {
   "type": "resource",
   "name": "Iron Ore",
-  "description": "A rare resource, unrefined",
-  "hardness": 2,
+  "description": "A common resource, unrefined.",
+  "hardness": 1,
   "cost": 2.0,
   "color": "983900"
 }

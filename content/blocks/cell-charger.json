@@ -1,32 +1,21 @@
 {
   "type": "GenericSmelter",
-  "name": "Iron Forge",
-  "description": "Forges [grey]iron plates []from [grey]iron ore[].",
+  "name": "Battery Cell Charger",
+  "description": "Charges [green]Battery Cells[]. [red]NOT FULLY IMPLEMENTED",
 
   "outputItem": {
-    "item": "iron_plate",
+    "item": "power_cell",
     "amount": 1
   },
   "size": 2,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 60,
+  "craftTime": 360,
   "updateEffect": "smeltsmoke",
   "consumes": {
-    "power": 0.5,
-    "items": {
-      "items": [
-        
-        {
-          "item": "iron_ore",
-          "amount": 2
-        }
-      ]
-    }
-
-
-  },
+    "power": 1
+    },
   "requirements": [
     {
       "item": "lead",
@@ -39,11 +28,15 @@
     {
       "item": "silicon",
       "amount": 60
+    },
+    {
+      "item": "iron_plate",
+      "amount":  20
     }
 
   ],
   "category": "crafting",
-  "research": "kiln",
+  "research": "iron_forge",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
 }

@@ -1,7 +1,14 @@
 # More-Mindustry
-I don't know what i'm doing 
 
-send help
+Outdated, but will still work on.
+
+When dependencies are made, this mod will be split into:
+
+Techfish-Core
+
+Techfish-Orbital
+
+and other Techfish mods
 
 # Things that are working:
 Iron Smelter
